@@ -3,6 +3,16 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B0EF21E6-56FC-4D1B-ABA4-F396ED92CD8C}"
+	ProjectSection(SolutionItems) = preProject
+		..\clock.css = ..\clock.css
+		..\clock.html = ..\clock.html
+		..\clock.js = ..\clock.js
+		..\index.html = ..\index.html
+		..\script.js = ..\script.js
+		..\style.css = ..\style.css
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

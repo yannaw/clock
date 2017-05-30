@@ -1,0 +1,39 @@
+﻿h1{
+  text-align: center;
+  font-size:80px;
+  text-decoration:underline;
+}
+
+.clocktest{
+color:black;
+  font-size:72px;
+     text-align: center;
+ 
+}
+#content{
+    border:2px blue solid;
+ padding:60px 40px 60px 40px;
+}
+span{font-size:60px;
+  color:white;
+
+}
+#space{
+border:0;
+  background:white;
+  color:red;
+   font-size:120px;
+  margin:0px 20px 0px 20px;
+ 
+}
+#hours, #minutes, #seconds{border:3px black solid;
+  -webkit-border-radius: 50px; 
+    box-shadow:
+      0 0 0 10px hsl(0, 0%, 80%),
+   0 0 0 15px hsl(0, 0%, 85%),
+ 0 0 0 20px hsl(0, 0%, 90%),
+    0 0 0 25px hsl(0, 0%, 95%);
+padding: 10px 10px 10px 10px;
+  margin: 10px 10px 10px 10px;
+background:blue;
+}

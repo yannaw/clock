@@ -1,0 +1,30 @@
+p{
+font-family:'Times New Roman';
+}
+
+h1 {
+    color: red;
+    font-family: 'Agency FB';
+    font-weight: bolder;
+    font-size: 3em;
+    text-align: center;
+    text-decoration:underline;
+}
+
+li {
+    font-family: 'Comic Sans MS';
+    margin-bottom: .25em;
+}
+
+.testid{
+    color:turquoise;
+    text-decoration:double;
+    text-decoration-color:blueviolet;
+    border:3px ridge green;
+}
+#testli{
+    color:blueviolet;
+    font-family:'Garamond';
+    }
+
+a:hover{font-size:2em;}
